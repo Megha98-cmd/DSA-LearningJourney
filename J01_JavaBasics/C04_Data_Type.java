@@ -6,3 +6,6 @@ public class C04_Data_Type {
         System.out.println(ch);
     }
 }
+
+    
+
