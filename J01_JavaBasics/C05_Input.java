@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class C05_Input {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
-       // String input = sc.next();
+       // String input = scanner.next();
        // System.out.println(input);
 
        //String name = sc.nextLine();
