@@ -2,13 +2,13 @@ public class C03_Variables {
     public static void main(String args[]) {
         int a = 10;
         int b = 5;
-        System.out.println(a);
-        System.out.println(b);
-        String name = "Megha Rajak";
-        System.out.println(name);
+        //System.out.println(a);
+        //System.out.println(b);
+        //String name = "Megha Rajak";
+        //System.out.println(name);
 
 
         a = b;
-        System.out.println(a);
+        //System.out.println(a);
     }
 }
