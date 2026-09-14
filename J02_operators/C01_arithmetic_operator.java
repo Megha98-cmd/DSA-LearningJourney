@@ -9,5 +9,12 @@ public class C01_arithmetic_operator {
         System.out.println("a * b = " + (a * b));
         System.out.println("a / b = " + (a / b));
         System.out.println("a % b = " + (a % b));
+
+
+        //Unary operator
+        int c = 5;
+        int d = a++;
+        System.out.println( c);
+        System.out.println(d);
     }
 }
