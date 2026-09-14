@@ -13,8 +13,10 @@ public class C01_arithmetic_operator {
 
         //Unary operator
         int c = 5;
-        int d = a++;
-        System.out.println( c);
+        int d = c++;
+        int e = ++c;
         System.out.println(d);
+        System.out.println(e);
+
     }
 }
