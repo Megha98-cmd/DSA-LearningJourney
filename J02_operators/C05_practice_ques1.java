@@ -1,4 +1,4 @@
-public class C05_practice_ques {
+public class C05_practice_ques1 {
     public static void main(String[] args){
 int x = 2, y = 5;
 int exp1 = (x * y / x);
@@ -7,3 +7,7 @@ System.out.print(exp1 + " , ");
 System.out.print(exp2);
   }
 }
+
+
+
+
