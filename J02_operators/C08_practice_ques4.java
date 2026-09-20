@@ -1,6 +1,6 @@
 public class C08_practice_ques4 {
     public static void main(String[] args){
-int x = 10, y = 5;
+int x = 30, y = 45;
 int exp1 = (y * (x / y + x / y));
 int exp2 = (y * x / y + y * x / y);
 System.out.println(exp1);
