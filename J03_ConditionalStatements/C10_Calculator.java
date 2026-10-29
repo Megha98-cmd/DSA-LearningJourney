@@ -20,5 +20,6 @@ public class C10_Calculator {
                        break;
             default : System.out.println("Invalid operator");
         }
-    
+     sc.close();
+    }
 }
