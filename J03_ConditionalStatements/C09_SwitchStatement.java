@@ -1,6 +1,6 @@
 public class C09_SwitchStatement {
     public static void main(String args[]) {
-        int number = 2;
+        int number = 3;
         switch (number){
             case 1 : System.out.println("chicken");
                       break;
