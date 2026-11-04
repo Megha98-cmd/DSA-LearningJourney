@@ -16,7 +16,7 @@ public class C10_Calculator {
                        break;
             case '*' : System.out.println(a*b);
                        break;
-            case '/' : System.out.println(a/b);
+            case '%' : System.out.println(a%b);
                        break;
             default : System.out.println("Invalid operator");
         }
