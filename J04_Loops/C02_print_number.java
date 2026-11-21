@@ -1,6 +1,6 @@
 package J04_Loops;
 
-public class C02_printnum {
+public class C02_print_number {
    
     
 }
