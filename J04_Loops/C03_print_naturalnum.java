@@ -9,7 +9,8 @@ public class C03_print_naturalnum {
 
      while (counter <= range) {
         System.out.println(counter);
-      }  
-        System.out.println();
-   }
+        counter++;
+     }
+     sc.close();
+ }
 }
