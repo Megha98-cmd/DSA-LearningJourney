@@ -14,3 +14,4 @@ public class C03_print_naturalnum {
      sc.close();
  }
 }
+  
