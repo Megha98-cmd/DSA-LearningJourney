@@ -2,9 +2,10 @@ package J04_Loops;
 import java.util.Scanner;
 
 public class C04_sumOf_natural_num {
-    Scanner sc = new Scanner(System.in);
-    int n = sc.nextInt();
-    int sum = 0;
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int sum = 0;
 
     int i=0;
     while (i <= n) {
