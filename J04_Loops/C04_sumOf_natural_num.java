@@ -6,5 +6,8 @@ public class C04_sumOf_natural_num {
     int sum = 0;
 
     int i = 1;
-    
+    while (i <= n) {
+        sum += i;
+        i++;
+    }
 }
